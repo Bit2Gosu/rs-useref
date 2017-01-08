@@ -1,0 +1,29 @@
+{
+	"name": "rs-useref",
+	"version": "0.0.0",
+	"description": "gulp-useref with change-detection",
+	"main": "index.js",
+	"scripts": {
+		"test": "node node_modules/mocha/bin/mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Bit2Gosu/rs-useref.git"
+	},
+	"keywords": [
+		"gulp",
+		"useref",
+		"change-detection"
+	],
+	"author": "Richard Schubert <public.schubert.richard@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Bit2Gosu/rs-useref/issues"
+	},
+	"homepage": "https://github.com/Bit2Gosu/rs-useref#readme",
+	"devDependencies": {
+		"chai": "^3.5.0",
+		"gulp": "^3.9.1",
+		"mocha": "^3.2.0"
+	}
+}
